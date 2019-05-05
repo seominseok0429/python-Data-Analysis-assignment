@@ -10,7 +10,7 @@
 
 ### 남이 만든것
 
-전체 국민청원 내역(https://github.com/lovit/petitions_scraper) 지금은
+전체 국민청원 내역(https://www.dropbox.com/s/4q5neb9ngdhfg8y/petition_data_all.csv?dl=0) 지금은
 잘 작동하지 않아서 제가 수정해서 크롤링을 했지만 , 원본 코드는 제것이 아니기 때문에 과제에 제출하지는 않겠습니다.
 
 ## 데이터 시각화입니다 첫번 째 사진은 어떤 청원이 가장 많이 올라왔나 이고 두번째는 어떤 카테고리가 가장 많이 투표 됬나 입니다. 세번째는 워드클라우드 입니다.
