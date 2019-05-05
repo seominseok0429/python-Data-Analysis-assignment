@@ -24,4 +24,14 @@
 <img width="500" src=https://user-images.githubusercontent.com/33244972/57183976-38299880-6eef-11e9-863c-07da77dcd254.png>
 
 
+## gephi 를 사용한 네트워크 입니다.
+
+### 키워드는 여성 입니다. 무고는 아마 곰탕집 사건 같고 , 사건이나 피해자는 둘째딸은 성추행 성폭행 피해에 대한 키워드 같습니다.
+
+<img width="500" src=https://user-images.githubusercontent.com/33244972/57195505-79bd5080-6f8e-11e9-9a14-e0305f95f807.PNG>
+
+### 키워드는 어린이집 입니다. 보육 운영 공립 민간 등은 요즘 가장 많이 이슈가된 유치원 개학연기 유치원 3법 유치원 폭행등 그런 키워드 같습니다.
+
+<img width="500" src=https://user-images.githubusercontent.com/33244972/57195481-23501200-6f8e-11e9-8a48-6f04fa4aae7d.PNG>
+
 봐주셔서 감사합니다.
